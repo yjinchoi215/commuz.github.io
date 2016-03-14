@@ -1,2 +1,2 @@
-# commuz.github.io
-commuz hompage
+# yjinchoi215.github.io
+my hompage
