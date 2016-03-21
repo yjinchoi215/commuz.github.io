@@ -1,2 +1,2 @@
 # yjinchoi215.github.io
-my hompage
+Hello people it's my homepage :-)
